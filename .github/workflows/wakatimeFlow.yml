@@ -1,0 +1,14 @@
+name: Waka - Readme
+  # You may pin to the exact commit or the version.
+  # uses: athul/waka-readme@1f2d0f1334ec066ef92b9eaf14242cd062bcd254
+  uses: athul/waka-readme@v0.1.5
+  with:
+    # GitHub access token with Repo scope
+    GH_TOKEN:  "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"
+    # Your Wakatime API Key
+    WAKATIME_API_KEY: "6b44d58b-ec69-4708-b4ac-66942e4d5551"
+    # Your GitHub repository
+    REPOSITORY: tom783/tom783
+    SHOW_TOTAL_CODE_TIME: "True"
+    SHOW_COMMIT: "True"
+    SHOW_DAYS_OF_WEEK: "True"

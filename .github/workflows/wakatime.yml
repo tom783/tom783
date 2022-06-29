@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      - uses: tom783/tom783@master
         with:
           WAKATIME_API_KEY: 6b44d58b-ec69-4708-b4ac-66942e4d5551
           GH_TOKEN: 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

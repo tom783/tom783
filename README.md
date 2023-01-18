@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 <!-- My git stat -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom783)](https://github.com/tom783)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tom783&repo=Study)](https://github.com/tom783/Study)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tom783&repo=Portfolio)](https://github.com/tom783/Portfolio)
-
 ---
 
 ## [ 📢Introducing myself ]
